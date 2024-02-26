@@ -1,0 +1,6 @@
+name: HelloWord
+on: push
+job: 
+   helloWord-job
+   runs-on: Ubuntu-latest
+   
